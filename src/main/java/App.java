@@ -2,6 +2,6 @@ package main.java;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Bonjour Jenkins CI/CD !");
+        System.out.println("Bonjour Jenkins CI/CD nous allons paaser des tests d'automatisation!");
     }
 }
